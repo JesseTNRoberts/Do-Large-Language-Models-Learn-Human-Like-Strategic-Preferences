@@ -6,4 +6,4 @@ The dataset is [here](rational.md) and the results for many different models is 
 
 The results of the experiment can be seen below.
 
-![image]("simple value preference.png")
+![Image](https://github.com/JesseTNRoberts/Do-Language-Models-Have-Rational-Preference/blob/main/Simple%20Value/simple%20value%20preference.png)
