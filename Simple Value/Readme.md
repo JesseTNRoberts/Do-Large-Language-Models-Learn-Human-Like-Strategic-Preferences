@@ -6,4 +6,4 @@ The dataset is [here](rational.md) and the results for many different models is 
 
 The results of the experiment can be seen below.
 
-![image](simple value preference.png)
+![image]("simple value preference.png")
