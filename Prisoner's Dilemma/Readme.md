@@ -22,3 +22,5 @@ These results are consistent with human results which show that stake size direc
   year={2016},
   publisher={Nature Publishing Group UK London}
 }
+
+This work (possibly in general) needs follow up for the consideration of iterated game results.
