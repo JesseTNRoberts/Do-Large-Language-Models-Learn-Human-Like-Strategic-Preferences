@@ -8,4 +8,4 @@ The results of the experiment can be seen below.
 
 ![Image](https://github.com/JesseTNRoberts/Do-Language-Models-Have-Rational-Preference/blob/main/Prisoner's%20Dilemma/PrisonersDilemmaAC.png)
 
-![Image](https://github.com/JesseTNRoberts/Do-Language-Models-Have-Rational-Preference/blob/main/Prisoner's%20Dilemma/PrisonersDilemmaLS.png)
+![Image](https://github.com/JesseTNRoberts/Do-Language-Models-Have-Rational-Preference/blob/main/Prisoner's%20Dilemma/PrisonersDilemmaLS1.png)
