@@ -1,4 +1,4 @@
-# Simple Value Assignment and Preference
+# Prisoner's Dilemma Preference
 
 This folder contains the simple value assignment and preference data and experiment.
 
