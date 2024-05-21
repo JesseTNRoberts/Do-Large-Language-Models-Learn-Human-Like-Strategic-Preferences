@@ -1,6 +1,6 @@
 # Traveler's Dilemma Preference
 
-This folder contains the simple value assignment and preference data and experiment.
+This folder contains the traveler's dilemman data and experiment.
 
 The dataset is in the data folder.
 
